@@ -17,7 +17,7 @@
 	<dd> -Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species </b> </dd> 
 </dl>
 	
-	<img src = "C:\Users\Mahima\Downloads\drinks.png" width= "950" height="600"> 
+	<img src = "https://i.pinimg.com/originals/b0/16/b1/b016b1da06e37bb809d4a4976d753fd7.jpg" width= "950" height="600"> 
 	
 	
 </body> 
