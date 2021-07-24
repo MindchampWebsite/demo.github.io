@@ -4,7 +4,7 @@
 	<title> Beverages </title> 
 <body style="background-color:#DAF7A6"> 
 	<h1> <i> Mahima's Beverage Shop </i> </h1> 
-	<marquee behavior="scroll" direction="left" scrollamount="10"><h2> Mahima's Beverage Shop has new premium discounts! New flavors! Sign up  Get an exclusive membership for more perks! </h2></marquee>
+	<marquee behavior="scroll" direction="left" scrollamount="10"><h2> Mahima's Beverage Shop has new premium discounts! New flavors! Sign up and get an exclusive membership for more perks! </h2></marquee>
 	<h2><a href="file:///C:/Users/Mahima/OneDrive/Documents/html/form.html" target="_blank">Order</a></h2>
 
 	
