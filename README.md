@@ -1,5 +1,4 @@
 # demo.github.io
-<!DOCTYPE html>
 <html>
 <body style="background-color:#DAF7A6"> 
 	<h1> <i> Mahima's Beverage Shop </i> </h1> 
@@ -18,6 +17,4 @@
 	
 	<img src = "https://i.pinimg.com/originals/b0/16/b1/b016b1da06e37bb809d4a4976d753fd7.jpg" width= "950" height="600"> 
 	
-	
-</body> 
-</html>
+
