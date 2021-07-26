@@ -12,7 +12,6 @@
 	<dd> -Tea is an aromatic beverage prepared by pouring hot or boiling water over cured or fresh leaves of Camellia sinensis </dd>
 	<dt> Coffee </dt>
 	<dd> -Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species 
-</dl>
 	
 	<img src = "https://i.pinimg.com/originals/b0/16/b1/b016b1da06e37bb809d4a4976d753fd7.jpg" width= "950" height="600"> 
 	
