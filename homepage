@@ -2,7 +2,7 @@
 <html>
 	<title> Beverages </title> 
 <body style="background-color:#DAF7A6"> 
-	<h1> <i> Mahima's Beverage Shop </i> </h1> 
+	<h1> <i> Beverage Shop </i> </h1> 
 	<marquee behavior="scroll" direction="left" scrollamount="10"><h2> Mahima's Beverage Shop has new premium discounts! New flavors! Sign up  Get an exclusive membership for more perks! </h2></marquee>
 	<h2><a href="file:///C:/Users/Mahima/OneDrive/Documents/html/form.html" target="_blank">Order</a></h2>
 
@@ -14,6 +14,11 @@
 	<dt> Coffee </dt>
 	<dd> -Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species </b> </dd> 
 </dl>
+
+        <h2><center> Choose what you would like</center></h2>
+	<center><a href="file:///C:/Users/Mahima/OneDrive/Documents/html/Drinks.html">Hot Coffees</a></center><br>
+	<center><a href="file:///C:/Users/Mahima/OneDrive/Documents/html/HotTeas.html">Hot Teas</a></center><br>
+	<center><a href="C:\Users\Mahima\OneDrive\Documents\html\HotDrinks.html">Hot Drinks</a><br> </center>
 	
 	<img src = "C:\Users\Mahima\Downloads\drinks.png" width= "950" height="600"> 
 	
