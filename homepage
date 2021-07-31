@@ -15,34 +15,6 @@
 	<dd> -Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species </b> </dd> 
 </dl>
 
-<form>
-	<h3> Americanos </h3>
-		<input type="CheckBox"> Caffè Americano <br>
-	<h3>Brewed Coffees</h3>
-		<input type="CheckBox"> Blonde Roast <br>
-		<input type="CheckBox"> Caffè Misto <br>
-		<input type="CheckBox"> Dark Roast Coffee <br>
-		<input type="CheckBox"> Pike Place® Roast <br>
-		<input type="CheckBox"> Decaf Pike Place® Roast <br>
-	<h3>Cappuccinos</h3>
-		<input type="CheckBox"> Cappuccino <br>
-	<h3>Espresso Shots</h3>
-		<input type="CheckBox"> Espresso <br>
-		<input type="CheckBox"> Espresso Con Panna <br>
-	<h3>Lattes</h3>
-		<input type="CheckBox"> Caffè Latte Roast <br>
-		<input type="CheckBox"> Cinnamon Dolce Latte <br>
-		<input type="CheckBox"> Hazelnut Bianco Latte <br>
-		<input type="CheckBox"> Blonde Vanilla Latte <br>
-		<input type="CheckBox"> Latte <br>
-		
-		<br>
-	
-		<h4><a href="Submitpage.html">Place Order</a></h4>
-
-</body>
-</html>
- 
 	
 	<img src = "C:\Users\Mahima\Downloads\drinks.png" width= "950" height="600"> 
 	
